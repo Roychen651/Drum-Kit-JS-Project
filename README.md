@@ -19,4 +19,4 @@ This is a simple and interactive drum kit website created using HTML, CSS, and J
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/drum-kit-website.git
+git clone https://github.com/Roychen651/Drum-Kit-JS-Project.git
