@@ -2,6 +2,10 @@
 
 This is a simple and interactive drum kit website created using HTML, CSS, and JavaScript. It allows users to play different drum sounds by clicking on the corresponding drum pads or using keyboard keys.
 
+
+<p> <img src="drumgif.gif" alt="GIF showcasing the app"></p>
+
+
 ## Features
 
 - **Interactive Drum Pads:** Click on the drum pads to play different sounds.
