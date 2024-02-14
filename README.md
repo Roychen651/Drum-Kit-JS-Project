@@ -18,6 +18,11 @@ This is a simple and interactive drum kit website created using HTML, CSS, and J
 - CSS
 - JavaScript
 
+
+## Render link to the drum kit
+
+https://drum-kit-website.onrender.com/
+
 ## Usage
 
 1. Clone the repository:
@@ -25,6 +30,3 @@ This is a simple and interactive drum kit website created using HTML, CSS, and J
 ```bash
 git clone https://github.com/Roychen651/Drum-Kit-JS-Project.git
 
-## Render link to the drum kit
-
-https://drum-kit-website.onrender.com/
